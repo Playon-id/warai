@@ -2,7 +2,7 @@
   "name": "warai",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Playon-id.github.io/warai",
+  "homepage": "https://Playon-id.github.io/warai",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
