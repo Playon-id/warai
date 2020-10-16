@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.d29e3146.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.d29e3146.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.c94933e5.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.c94933e5.js.map",
-    "static/js/2.e2d6041c.chunk.js": "/react-gh-pages/static/js/2.e2d6041c.chunk.js",
-    "static/js/2.e2d6041c.chunk.js.map": "/react-gh-pages/static/js/2.e2d6041c.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.00f2041bd45f6301499c6119e3411c1e.js": "/react-gh-pages/precache-manifest.00f2041bd45f6301499c6119e3411c1e.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-gh-pages/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e2d6041c.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.e2d6041c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
+    "main.css": "/warai/static/css/main.5f361e03.chunk.css",
+    "main.js": "/warai/static/js/main.dcdbd440.chunk.js",
+    "main.js.map": "/warai/static/js/main.dcdbd440.chunk.js.map",
+    "runtime-main.js": "/warai/static/js/runtime-main.7b168bff.js",
+    "runtime-main.js.map": "/warai/static/js/runtime-main.7b168bff.js.map",
+    "static/js/2.e2d6041c.chunk.js": "/warai/static/js/2.e2d6041c.chunk.js",
+    "static/js/2.e2d6041c.chunk.js.map": "/warai/static/js/2.e2d6041c.chunk.js.map",
+    "index.html": "/warai/index.html",
+    "precache-manifest.5af96703fa40016f2219b1d6c91fe69b.js": "/warai/precache-manifest.5af96703fa40016f2219b1d6c91fe69b.js",
+    "service-worker.js": "/warai/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/warai/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e2d6041c.chunk.js.LICENSE.txt": "/warai/static/js/2.e2d6041c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/warai/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c94933e5.js",
+    "static/js/runtime-main.7b168bff.js",
     "static/js/2.e2d6041c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d29e3146.chunk.js"
+    "static/js/main.dcdbd440.chunk.js"
   ]
 }
